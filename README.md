@@ -8,8 +8,10 @@
 
 #### - 📧 How to reach me: ricardo.machado69@hotmail.com.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-alexandre-de-souza-machado-7b7a62244)
-
+<div id="badges">
+  <a href="(https://www.linkedin.com/in/ricardo-alexandre-de-souza-machado-7b7a62244/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 ### ⚡Technologies I usually use 
 <div style="display: inline_block">
          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=35 align=center > 
