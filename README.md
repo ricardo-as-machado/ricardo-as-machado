@@ -9,7 +9,7 @@
 #### - 📧 How to reach me: ricardo.machado69@hotmail.com.
 
 <div id="badges">
-  <a href="(https://www.linkedin.com/in/ricardo-alexandre-de-souza-machado-7b7a62244/)">
+  <a href="https://www.linkedin.com/in/ricardo-alexandre-de-souza-machado-7b7a62244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
